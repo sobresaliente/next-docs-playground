@@ -1,0 +1,12 @@
+.dashboardHeader {
+  height: 64px;
+  background-color: rebeccapurple;
+}
+
+.dashboardAside {
+  background-color: aqua;
+}
+
+.dashboardMain {
+  display: flex;
+}
